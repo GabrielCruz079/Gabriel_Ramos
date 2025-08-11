@@ -20,9 +20,7 @@ The most language i used is Python, CSS and Javascript. I use for structure(Fram
   <div> 
     
   <a href="https://www.instagram.com/gabriel_ramos_9" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <br>
   <a href = "mailto:gabriel.ramos.cruz079@gmail.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <br>
   <a href="https://www.linkedin.com/in/gabriel-ramos-50a081357/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
