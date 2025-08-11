@@ -13,7 +13,7 @@ The most language i used is Python, CSS and Javascript. I use for structure(Fram
 
   ##
   
-  ## Redes Sociais
+  ## Social media
   
   <div> 
   <a href="https://www.instagram.com/gabriel_ramos_9" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -22,4 +22,6 @@ The most language i used is Python, CSS and Javascript. I use for structure(Fram
   
 </div>
 
-  ## Em Manutenção 
+  ## What I’m currently working on
+
+  I am a versatile full-stack developer who decided to focus exclusively on data analysis. I work for a cosmetics company that is starting from scratch, where I manage the product and pricing system, overseeing each item’s entry and value. I analyze sales by age group, identify the most requested products, and monitor those that remain in stock for longer periods, providing actionable insights that drive strategic decisions and business growth.
