@@ -27,10 +27,10 @@ The most language i used is Python, CSS and Javascript. I use for structure(Fram
   ## What I’m currently working on
 
   Data Analyst – Seeking First Opportunity
-•	Knowledge in managing and controlling product entries and values.
-•	Practical experience in basic sales analysis and identification of consumption patterns.
-•	Solid theoretical foundation in Python, Excel, XAMPP, MySQL, and Visual Studio Code.
-•	Interest and dedication in generating insights to support strategic decision-making.
-•	Quick learner with adaptability to new tools and methodologies.
-•	Highly motivated to build a career in data analysis with a focus on results.
+<p> •	Knowledge in managing and controlling product entries and values. </p>
+<p> •	Practical experience in basic sales analysis and identification of consumption patterns. </p>
+<p> •	Solid theoretical foundation in Python, Excel, XAMPP, MySQL, and Visual Studio Code. </p>
+<p> •	Interest and dedication in generating insights to support strategic decision-making. </p>
+<p> •	Quick learner with adaptability to new tools and methodologies. </p>
+<p> •	Highly motivated to build a career in data analysis with a focus on results. </p>
 
