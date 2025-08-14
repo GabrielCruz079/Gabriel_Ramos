@@ -13,7 +13,6 @@ The most language i used is Python, CSS and Javascript. I use for structure(Fram
   
 </div>
 
-  ##
   
   ## Social media
   
@@ -27,4 +26,11 @@ The most language i used is Python, CSS and Javascript. I use for structure(Fram
 
   ## What I’m currently working on
 
-  I am a versatile full-stack developer who decided to focus exclusively on data analysis. I work for a cosmetics company that is starting from scratch, where I manage the product and pricing system, overseeing each item’s entry and value. I analyze sales by age group, identify the most requested products, and monitor those that remain in stock for longer periods, providing actionable insights that drive strategic decisions and business growth.
+  Data Analyst – Seeking First Opportunity
+•	Knowledge in managing and controlling product entries and values.
+•	Practical experience in basic sales analysis and identification of consumption patterns.
+•	Solid theoretical foundation in Python, Excel, XAMPP, MySQL, and Visual Studio Code.
+•	Interest and dedication in generating insights to support strategic decision-making.
+•	Quick learner with adaptability to new tools and methodologies.
+•	Highly motivated to build a career in data analysis with a focus on results.
+
