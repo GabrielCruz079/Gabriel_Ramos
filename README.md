@@ -1,11 +1,31 @@
-#  My name is Gabriel Ramos!
+## `Gabriel Ramos, Analista`
 
 I`m 21 yaers old, i start study for system analysis and development, 2 years a in the meantime i liked it and became interested in data analysis.
 The most language i used is Python, CSS and Javascript. I use for structure(FrameWork) a HTML and BDA(Database) the MySql.
 
+## 💻 Perfil Técnico
+
+* Versátil – domina múltiplas linguagens (Python, JS, SQL).
+
+* Inovador – procura novas formas de resolver desafios.
+
+* Ágil – entrega soluções rapidamente, sem perder qualidade.
+
+## 🚀 Perfil de Crescimento
+
+* Curioso – sempre busca aprender mais.
+
+* Visionário – enxerga tendências e oportunidades no uso de dados.
+
+* Dedicado – comprometido com a evolução contínua.
+
+* Autodidata – aprende por conta própria e aplica no dia a dia.
+
+* Determinado – mantém o foco até alcançar objetivos.
+
 <div style="display: inline_block">
 
-## 📊 Estatísticas
+## 📊 Linguagens e Tecnologias
   
   <img align="center" alt="Gaab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gaab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
