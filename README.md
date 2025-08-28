@@ -3,7 +3,7 @@
 I`m 21 yaers old, i start study for system analysis and development, 2 years a in the meantime i liked it and became interested in data analysis.
 The most language i used is Python, CSS and Javascript. I use for structure(FrameWork) a HTML and BDA(Database) the MySql.
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 
 ## 📊 Estatísticas
   
