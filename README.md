@@ -1,31 +1,44 @@
-## `Gabriel Ramos, Analista`
+## `Gabriel Ramos | Data Analysis & Technology`
 
-I`m 21 yaers old, i start study for system analysis and development, 2 years a in the meantime i liked it and became interested in data analysis.
-The most language i used is Python, CSS and Javascript. I use for structure(FrameWork) a HTML and BDA(Database) the MySql.
+About Me
 
-## 💻 Perfil Técnico
+I am a Systems Analysis and Development student with a growing focus on Data Analysis. Over the past years, I have been building practical knowledge in Python, SQL and data organization, always aiming to apply what I learn to real-world scenarios.
 
-* Versátil – domina múltiplas linguagens (Python, JS, SQL).
+As an entrepreneur in the fragrance market, I apply analytical thinking to inventory control, sales tracking and business decision-making.
 
-* Inovador – procura novas formas de resolver desafios.
+My goal is to grow technically and contribute to projects that transform data into strategic insights.
 
-* Ágil – entrega soluções rapidamente, sem perder qualidade.
+## 💻 Technical Skills
 
-## 🚀 Perfil de Crescimento
+* Python (data structures, automation, basic data analysis).
 
-* Curioso – sempre busca aprender mais.
+* SQL & MySQL.
 
-* Visionário – enxerga tendências e oportunidades no uso de dados.
+* HTML & CSS
 
-* Dedicado – comprometido com a evolução contínua.
+* JavaScript
 
-* Autodidata – aprende por conta própria e aplica no dia a dia.
+* Git & GitHub
 
-* Determinado – mantém o foco até alcançar objetivos.
+* XAMPP
+
+* Excel
+
+## 🚀 Growth Profile
+
+* Curious – constantly seeking to learn and improve.
+
+* Visionary – able to identify trends and opportunities in data usage.
+
+* Dedicated – committed to continuous development.
+
+* Self-taught – learns independently and applies knowledge in practice.
+
+* Determined – focused on achieving goals..
 
 <div style="display: inline_block">
 
-## 📊 Linguagens e Tecnologias
+## 📊 Languages and Technologies
   
   <img align="center" alt="Gaab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gaab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -35,7 +48,7 @@ The most language i used is Python, CSS and Javascript. I use for structure(Fram
   
 </div>
   
-  ## Social media
+  ## Social Media
   
   <div> 
     
